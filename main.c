@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <conio.h>
 
-#include "paciente.h"
-#include "funcaoPaciente.h"
-#include "funcaoSintoma.h"
+#include"funcaoSintoma.h"
+#include"funcaoPaciente.h"
+
 
 int main()
 {
