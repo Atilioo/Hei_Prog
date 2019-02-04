@@ -13,4 +13,4 @@ Simulação de atendimento por prioridade em hospital, utilizando a linguagem C.
 
 3: Depois o atendente classifica se é de baixo, médio ou alto risco;
 
-4: Por ultimo, o programa organiza a ordem de atendimento;
+4: Por ultimo, o programa organiza a ordem de atendimento de acordo com a ordem de risco;
